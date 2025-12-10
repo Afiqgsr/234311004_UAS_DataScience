@@ -2,9 +2,9 @@
 *ANALISIS KLASIFIKASI PENYAKIT TANAMAN KEDELAI MENGGUNAKAN BASELINE MODEL, MACHINE LEARNING, DAN DEEP LEARNING*
 
 ## 👤 Informasi
-- **Nama:** Afiq Galuh Setya Ramadhani
-- **Repo:** https://github.com/Afiqgsr/234311004_UAS_DataScience
-- **Video:** [...]
+- **Nama:** [Isi Nama Anda Disini]
+- **Repo:** [Isi Link Repository GitHub Anda Disini]
+- **Video:** [Isi Link Video Presentasi Disini]
 
 ---
 
@@ -57,7 +57,8 @@ project/
 ├── requirements.txt        # Dependencies
 ├── .gitignore
 └── README.md
-
+```
+---
 # 3. 📊 Dataset
 - **Sumber:** UCI Machine Learning Repository (Soybean Large)
 - **Jumlah Data:** 307 baris, 35 fitur dan 1 target
