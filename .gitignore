@@ -1,0 +1,12 @@
+# Abaikan folder cache (file sampah Colab/Jupyter)
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Abaikan file sistem komputer (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# Opsional: Abaikan dataset jika ukurannya > 100MB
+# (Untuk soybean ini kecil, jadi tidak wajib di-ignore)
+# data/
