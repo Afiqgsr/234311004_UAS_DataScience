@@ -163,15 +163,14 @@ Dataset ini memiliki **35 fitur**, berikut adalah tabel **10 fitur utama** yang 
 Gunakan environment berikut untuk menjalankan proyek:
 
 **Python Version:**
-- Python 3.10 / 3.12
+- Python 3.12.12
 
 **Main Libraries & Versions:**
-- numpy
-- pandas
-- scikit-learn
-- matplotlib
-- seaborn
+- numpy==2.0.2
+- pandas==2.2.2
+- scikit-learn==1.6.1
+- matplotlib==3.10.0
+- seaborn==0.13.2
 
 **Deep Learning Framework:**
-- tensorflow
-- keras
+- tensorflow==2.19.0
