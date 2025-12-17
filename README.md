@@ -4,7 +4,7 @@
 ## 👤 Informasi
 - **Nama:** Afiq Galuh Setya Ramadhani
 - **Repo:** https://github.com/Afiqgsr/234311004_UAS_DataScience
-- **Video:** [----]
+- **Video:** https://youtu.be/7qS1b6vCJuo
 
 ---
 
